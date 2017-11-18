@@ -23,7 +23,7 @@ git clone git@github.com:[YOUR_GITHUB_NAME]/utopian.io.git
 
 5. You can now preview the React frontend by running
 ```
-npm run dev-server
+> npm run dev-server
 ```
 _You will notice that you are **not** able to use any functionality because you missing the backend node application and the mongoDB._
 
